@@ -173,3 +173,4 @@ React functional component, including how to
 [JS expression]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#expressions
 [ES6 imports]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 [Flexbox]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+# waa14-react-functional-components
