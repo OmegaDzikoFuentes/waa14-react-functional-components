@@ -1,4 +1,4 @@
-import  pokePic  from './images/bulbasaur.png';
+import  pokePic  from './images/bulbasaur.png'; //need to work this
 
 
 
